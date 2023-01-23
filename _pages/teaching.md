@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials and descriptions for courses taught at UofT. 
 nav: true
 nav_order: 5
 horizontal: false
