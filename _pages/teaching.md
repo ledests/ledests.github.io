@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
+permalink: /teaching/
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
